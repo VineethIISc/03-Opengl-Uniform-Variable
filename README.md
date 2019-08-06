@@ -1,8 +1,8 @@
 # 03-Opengl-Uniform-Variable
 
 Draw a green triangle:
-  1) Use a uniform variable in vertes sahder
-  2) Pass color from application to shader
+  1) Use a uniform variable in vertex sahder
+  2) Pass the color value from application to shader
   
 Output Image:
 ![](images/greenOutput.png)
